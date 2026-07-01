@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6m0051/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 三論略章
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X54/X54n0876.xml
+    old_id: X54n0876
+hash: sha256:8ae006e80a99e988928edc7c27d05c7c8b29c5bf481e2fb69f18b0d2c420671c

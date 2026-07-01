@@ -1,0 +1,208 @@
+canonical_identifier: bkk:krp/KR6m0051/X/v1
+canonical_location: https://kanripo.org/bkk/KR6m0051/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 三論略章
+  identifiers:
+    krp: KR6m0051
+    cbeta: X54n0876
+    cbeta_old_id: X54n0876
+    authorityid: CA0002723
+    json_key: X0876
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X54/X54n0876.xml
+    old_id: X54n0876
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6m0051_000-X.yaml, hash: 'sha256:8ae006e80a99e988928edc7c27d05c7c8b29c5bf481e2fb69f18b0d2c420671c'}
+  - {seq: 1, filename: KR6m0051_001-X.yaml, hash: 'sha256:2922fde224d8e039f39e1664397bce913c8a785b506f92fe585e7982dd7fec9a'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6m0051_000-X.markers.yaml, hash: 'sha256:52fed48388f88930471e66b1ef63bf595a6757075677e2e16ccb6ecb8af0d4b4'}
+  - {seq: 1, role: markers, filename: assets/KR6m0051_001-X.markers.yaml, hash: 'sha256:3559655325460def4b0ec7dbb9240ac74112cdb525f2e0dfd43fe6f9a78071f5'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6m0051_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 12547
+  label: 大乘三論略章一卷
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6m0051_X_001-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: 目次
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6m0051_X_001-mulu-2
+    span:
+    - body
+    - 68
+    - 68
+  label: 二諦義
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6m0051_X_001-mulu-3
+    span:
+    - body
+    - 1873
+    - 1873
+  label: 二智義
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6m0051_X_001-mulu-4
+    span:
+    - body
+    - 3269
+    - 3269
+  label: 般若義
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6m0051_X_001-mulu-5
+    span:
+    - body
+    - 3981
+    - 3981
+  label: 真應義
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6m0051_X_001-mulu-6
+    span:
+    - body
+    - 4956
+    - 4956
+  label: 涅槃義
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6m0051_X_001-mulu-7
+    span:
+    - body
+    - 6571
+    - 6571
+  label: 佛性義
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6m0051_X_001-mulu-8
+    span:
+    - body
+    - 7245
+    - 7245
+  label: 二河義
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6m0051_X_001-mulu-9
+    span:
+    - body
+    - 7986
+    - 7986
+  label: 二種次第義
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6m0051_X_001-mulu-10
+    span:
+    - body
+    - 8632
+    - 8632
+  label: 正像義
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6m0051_X_001-mulu-11
+    span:
+    - body
+    - 9811
+    - 9811
+  label: 金剛三昧義
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6m0051_X_001-mulu-12
+    span:
+    - body
+    - 10026
+    - 10026
+  label: 生法二空義
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6m0051_X_001-mulu-13
+    span:
+    - body
+    - 10176
+    - 10176
+  label: 涅槃義
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6m0051_X_001-mulu-14
+    span:
+    - body
+    - 10681
+    - 10681
+  label: 真應二身義
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6m0051_X_001-mulu-15
+    span:
+    - body
+    - 11137
+    - 11137
+  label: 常無常二鳥義
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6m0051_X_001-mulu-16
+    span:
+    - body
+    - 11284
+    - 11284
+  label: 半滿義
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6m0051_X_001-mulu-17
+    span:
+    - body
+    - 11538
+    - 11538
+  label: 佛性義
+  type: mulu
+  level: 1
+hash: sha256:7b4efdc09e4d7ca152c2faf506083bb540a95676d4cc53a2eeee69402bd07743
