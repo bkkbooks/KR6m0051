@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6m0051_000.yaml, hash: 'sha256:8ae006e80a99e988928edc7c27d05c7c8b29c5bf481e2fb69f18b0d2c420671c'}
-  - {seq: 1, filename: KR6m0051_001.yaml, hash: 'sha256:c5104edb967fe56c0da6ca0a11b52e30a6d56f0012c49e8494d67343219b18c7'}
+  - {seq: 1, filename: KR6m0051_001.yaml, hash: 'sha256:2922fde224d8e039f39e1664397bce913c8a785b506f92fe585e7982dd7fec9a'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6m0051_001.markers.yaml, hash: 'sha256:a170312e0fcbb5a4f51be52be4c27284646eb2b81805f0c4c6102174fbb9337f'}
+  - {seq: 0, role: markers, filename: assets/KR6m0051_000.markers.yaml, hash: 'sha256:8548e0003300f422f42b9f6ded5f5d2b28e9d8c23bc24027bc960ba95dbeea7e'}
+  - {seq: 1, role: markers, filename: assets/KR6m0051_001.markers.yaml, hash: 'sha256:7bb75fb3e949c18c590c89030d0a25ef7cd8fc11cc0e1c90b33ee91b50cba952'}
 table_of_contents:
 - ref:
     seq: 1
@@ -206,7 +207,4 @@ table_of_contents:
   label: 佛性義
   type: mulu
   level: 1
-hash: sha256:cf8e264c9393ddd9ff25a84b7a20e6b75334a4363c7a98f3a9d8be552dddaf87
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:ac32a3aec35e1211a00686098ae0ae25cba24d8271fa5336a2843cf86227bf18
